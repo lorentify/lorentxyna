@@ -32,12 +32,21 @@ const songsList = [{
     artist: "Sia",
     image: "1.png",
 },
+
+{
+    name: "Mistletoe",
+    link: "Mistletoe.mp3",
+    artist: "Justin Bieber",
+    image: "Mistletoe.jpeg",
+},
+
 {
     name: "All I Want For Christmas Is You",
     link: "All-I-Want-For-Christmas-Is-You.mp3",
     artist: "Mariah Carey",
     image: "2.jpg",
 },
+
 {
     name: "Santa Tell Me",
     link: "Santa Tell Me.mp3",
